@@ -2098,10 +2098,10 @@ input, select, textarea {
 		position: relative;
 	}
 
-		/* .image img {
+		.image img {
 			border-radius: 3px;
 			display: block;
-		} */
+		}
 
 		.image.left {
 			float: left;
