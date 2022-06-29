@@ -18,7 +18,7 @@
 
 ## https://jakemporter.github.io/
 
-I created this portfolio webpage with a theme, I did use all my own images. I added some sections about myself along with an image of my wife and I. I linked in the nav bar a page about some things I have worked on including a bootcamp capstone project, work I've done professionally and projects I've done at Berkeley Bootcamp. I have also included some contact information at the bottom.
+I created this portfolio webpage with a theme, I did use all my own images. I added some sections about myself along with an image of my wife and I. I linked in the nav bar a page about some things I have worked on including a bootcamp capstone project, work I've done professionally and projects I've done at Berkeley Bootcamp. I have also included some contact information in the footer.
 
 Spectral by HTML5 UP
 html5up.net | @ajlkn
